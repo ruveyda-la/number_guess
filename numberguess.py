@@ -1,6 +1,5 @@
 import random
 x = random.randint(1,100)
-print(x)
 
 def numberguess(low_guess, high_guess):
 
